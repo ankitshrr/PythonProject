@@ -1,3 +1,3 @@
 # PythonProject
 1. Madlibs Game
-2. Snake,Water,GGun
+2. Snake,Water,Gun
